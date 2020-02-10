@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+
+#header {
+    width: 100vw;
+    height: 100px;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+#profile {
+    height: 80px;
+    width: 80px;
+    background-color: rgb(18, 93, 163);
+}
+
+#box2 {
+    height: 200px;
+    width: 100vw;
+}
+
+#box3 {
+    width: 100vw;
+    height: 16vh;
+    background-color: rgb(18, 93, 163);
+}
+#box4 {
+    width: 100vw;
+    height: 16vh;
+    background-color: rgb(37, 207, 179);
+}
+#box5 {
+    width: 100vw;
+    height: 16vh;
+    background-color: rgb(184, 221, 116);
+}
+#box6 {
+    width: 100vw;
+    height: 16vh;
+    background-color: rgb(255, 252, 59);
+}
